@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="477653" started-at="2022-12-29T11:41:46 IST" finished-at="2022-12-29T11:49:43 IST">
+    <groups>
+    </groups>
+    <test name="/Users/naziya/Documents/Automation/Purplle/src/test/java/tests/practice.java" duration-ms="477653" started-at="2022-12-29T11:41:46 IST" finished-at="2022-12-29T11:49:43 IST">
+      <class name="tests.TC_Purplle_001">
+        <test-method status="PASS" signature="staringServer()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="staringServer" is-config="true" duration-ms="919" started-at="2022-12-29T11:41:45 IST" finished-at="2022-12-29T11:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staringServer -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="openApp" is-config="true" duration-ms="1" started-at="2022-12-29T11:41:46 IST" finished-at="2022-12-29T11:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="loginApp" is-config="true" duration-ms="7022" started-at="2022-12-29T11:41:46 IST" finished-at="2022-12-29T11:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="checkAllPages()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="checkAllPages" duration-ms="97070" started-at="2022-12-29T11:41:53 IST" finished-at="2022-12-29T11:43:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAllPages -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="logoutApp" is-config="true" duration-ms="387" started-at="2022-12-29T11:43:30 IST" finished-at="2022-12-29T11:43:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="closeApp" is-config="true" duration-ms="5008" started-at="2022-12-29T11:43:31 IST" finished-at="2022-12-29T11:43:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="stopingServer()[pri:0, instance:tests.TC_Purplle_001@50b472aa]" name="stopingServer" is-config="true" duration-ms="1" started-at="2022-12-29T11:49:44 IST" finished-at="2022-12-29T11:49:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopingServer -->
+      </class> <!-- tests.TC_Purplle_001 -->
+      <class name="tests.TC_Purplle_002">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:tests.TC_Purplle_002@15c43bd9]" name="openApp" is-config="true" duration-ms="1" started-at="2022-12-29T11:43:36 IST" finished-at="2022-12-29T11:43:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:tests.TC_Purplle_002@15c43bd9]" name="loginApp" is-config="true" duration-ms="6451" started-at="2022-12-29T11:43:36 IST" finished-at="2022-12-29T11:43:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="addProductToCartTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TC_Purplle_002@15c43bd9]" name="addProductToCartTest" duration-ms="355742" started-at="2022-12-29T11:43:42 IST" data-provider="ReadVariant2" finished-at="2022-12-29T11:49:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Skin Care]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Moisturizers]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Face Moisturizers & Day Creams]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Good Vibes]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Good Vibes Rosehip Moisture Rich Face Cream | Lightening, Nourishing | With Jojoba Oil | No Parabens, No Sulphates, No Mineral Oil (50 g)]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Skin Care]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Moisturizers]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Serums & Essences]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Good Vibes]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Good Vibes Vitamin C & B3 Skin Glow Face Serum | With Orange | Easy Absorption | No Parabens, No Silicones, No Sulphates, No Animal Testing (10 ml)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCartTest -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:tests.TC_Purplle_002@15c43bd9]" name="logoutApp" is-config="true" duration-ms="276" started-at="2022-12-29T11:49:38 IST" finished-at="2022-12-29T11:49:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:tests.TC_Purplle_002@15c43bd9]" name="closeApp" is-config="true" duration-ms="5004" started-at="2022-12-29T11:49:38 IST" finished-at="2022-12-29T11:49:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- tests.TC_Purplle_002 -->
+    </test> <!-- /Users/naziya/Documents/Automation/Purplle/src/test/java/tests/practice.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

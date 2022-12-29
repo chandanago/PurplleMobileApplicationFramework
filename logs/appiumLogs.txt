@@ -1,0 +1,4 @@
+2022-12-29 06:11:47:072 [Appium] Welcome to Appium v1.18.3
+2022-12-29 06:11:47:074 [Appium] Non-default server args:
+2022-12-29 06:11:47:075 [Appium]   logFile: C:\Users\User\eclipse-workspace\MikoWorkspace\MikoProject\Purplle_Purplle\Purplle_Purplle\.\logs\appiumLogs.txt
+2022-12-29 06:11:47:099 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

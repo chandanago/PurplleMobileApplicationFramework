@@ -1,0 +1,13 @@
+tests\TC_Purplle_001.class
+pages\BrandsPage.class
+pages\PerfumePage.class
+pages\OfferPage.class
+pages\LoginPage.class
+pages\MyCartPage.class
+tests\TC_Purplle_002.class
+pages\CartPage.class
+pages\HomePage.class
+pages\CategoriesPage.class
+tests\ProductGeneric.class
+pages\BeautyStudioPage.class
+generic\ReusableMethodes.class
